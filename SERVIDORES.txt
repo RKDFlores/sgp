@@ -1,0 +1,23 @@
+SIAF
+\\srvsiaf\siaf_sp3$
+
+SIGA
+\\SRVSIGA\siga_mef
+
+USUARIO ADMINISTRADOR SIGA:
+SUARIO		:	ADMIN
+PASSWORD	:	ValSiga2021
+			ValSiga.2024   (Operativo)
+
+DEMO SIGA:			
+USUARIO	:	ADMIN
+PASSWORD: 	ValSiga.2024
+
+USUARIO ADMINISTRADOR SIAF:
+USUARIO		:	SIAFSEGURIDAD
+PASSWORD	:	ValSiaf.2024
+
+CLAVE DEL VNC:  in$n
+
+clave de acceso a  tu window
+Ab123456
